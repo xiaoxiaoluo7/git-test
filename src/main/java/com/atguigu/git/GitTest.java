@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("host-fix test");
         System.out.println("zheshibeifen01");
         System.out.println("aaaa");
+        System.out.println("push test");
     }
 }
